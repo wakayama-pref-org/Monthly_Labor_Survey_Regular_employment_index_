@@ -1,4 +1,4 @@
-# Monthly_Labor_Survey_Regular_employment_index_
+# monthly_labor_survey_regular_employment_index_
 【毎月勤労統計調査(和歌山県)_産業別時系列表（常用雇用指数及び対前年比)です。】
 ◆毎月勤労統計調査とは
 〇調査の目的
